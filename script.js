@@ -137,7 +137,7 @@ function createElement() {
     seventhGifClone.classList.add("turned");
     const seventhGifCloneObject = {
       id: 7,
-      first: seventhGifClone,
+      gif: seventhGifClone,
       img: createTurnedBird(),
     };
 
